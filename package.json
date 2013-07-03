@@ -2,7 +2,6 @@
 	"name": "json-in-neo4j",
 	"version": "0.0.1",
 	"main": "./lib/json-in-neo4j.js",
-	"private": true,
 	"dependencies": {
 		"neo4j" : "0.2.x",
 		"async": ">=0.2.9"
